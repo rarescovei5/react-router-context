@@ -2,7 +2,7 @@
   "name": "react-router-context",
   "version": "0.1.0",
   "description": "A React routing solution that replicates the familiar react-router API using React Context to store and manage the current route internally. Enables flexible routing without relying on browser history or URL changes.",
-  "license": "ISC",
+  "license": "MIT",
   "author": "Rares Covei",
   "type": "commonjs",
   "main": "dist/index.js",
