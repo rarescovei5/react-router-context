@@ -21,17 +21,17 @@ npm install react-router-ctx
 ### 1. Setup the Router Provider
 
 ```tsx
-import { RouterProvider } from 'react-router-ctx';
+import { ContextRouter } from 'react-router-ctx';
 
 function App() {
   return (
-    <RouterProvider>
+    <ContextRouter>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/users/:id" element={<UserProfile />} />
       </Routes>
-    </RouterProvider>
+    </ContextRouter>
   );
 }
 ```
