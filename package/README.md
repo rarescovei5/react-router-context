@@ -16,12 +16,6 @@ A lightweight, zero-dependency React router that replicates the familiar `react-
 npm install react-router-ctx
 ```
 
-or
-
-```sh
-yarn add react-router-ctx
-```
-
 ## Usage
 
 ```tsx
