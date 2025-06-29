@@ -1,4 +1,4 @@
-import { ContextRouter, Route, Routes } from 'react-router-context';
+import { ContextRouter, Route, Routes } from 'react-router-ctx';
 
 function App() {
   return (

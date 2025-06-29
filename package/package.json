@@ -1,6 +1,6 @@
 {
   "name": "react-router-ctx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A React routing solution that replicates the familiar react-router API using React Context to store and manage the current route internally. Enables flexible routing without relying on browser history or URL changes.",
   "license": "MIT",
   "author": "rarescovei5",
