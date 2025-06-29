@@ -67,17 +67,16 @@ function UserProfile() {
 
 ### Components
 
-- `RouterProvider`: The root provider component
+- `ContextRouter`: The root provider component
 - `Routes`: Container for route definitions
-- `Route`: Defines a route with a path and element
+- `Route`: Defines a route with a path, element and nested routes
 - `Link`: Navigation link component
+- `Outlet`: Displays the matching route component within a route 
 
 ### Hooks
 
-- `useNavigate`: Programmatic navigation
+- `useRouter`: Access path and navigate function
 - `useParams`: Access route parameters
-- `useLocation`: Access current location
-- `useSearchParams`: Access and modify URL search parameters
 
 ## License
 
